@@ -1,1 +1,2 @@
 # Forbidden-Island-Game
+A forbidden island game. The player must navigate the island to collect the helicopter pieces before the water floods the player or the main helicopter piece. Once all the pieces have been collected, the player wins by returning to the main helicopter piece. Press 2 for 2 players or 1 for 1 player. Press m for a normal mountain, r for a random mountain, and t for random terrain. Use the snorkel to travel through water for a limited time.
