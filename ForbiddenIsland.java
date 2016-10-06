@@ -1350,7 +1350,7 @@ class ExampleForbiddenIslandWorld {
     Snorkel snorkel2;
     ArrayList<ArrayList<Double>> heights;
 
-    /*
+    
     void testGame(Tester t) {
         ForbiddenIslandWorld f = new ForbiddenIslandWorld();
         
@@ -1358,7 +1358,7 @@ class ExampleForbiddenIslandWorld {
                 (ForbiddenIslandWorld.ISLAND_SIZE + 1) * Cell.CELL_SIZE, .2);
         
     }
-  */
+  
     
     /*void init() {
         sample = new Cons<Integer>(new Integer(1),
